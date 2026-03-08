@@ -18,3 +18,21 @@ This project predicts whether a student will get placed based on different acade
 - Placement Training
 - SSC Marks
 - HSC Marks
+---
+
+## 🧠 Machine Learning Model
+
+The project uses a Machine Learning algorithm to predict student placement.
+
+### Algorithm Used
+
+- Random Forest Classifier
+
+### ML Workflow
+
+1. Data collection
+2. Data preprocessing
+3. Feature selection
+4. Model training
+5. Model evaluation
+6. Model deployment using Flask
