@@ -48,3 +48,22 @@ The project uses a Machine Learning algorithm to predict student placement.
 - HTML
 - CSS
 - Git
+---
+
+## ▶️ How to Run the Project
+
+### 1 Install Dependencies
+
+pip install -r requirements.txt
+
+### 2 Train the Model
+
+python train_model.py
+
+### 3 Run the Flask App
+
+python app.py
+
+### 4 Open in Browser
+
+http://127.0.0.1:5000
