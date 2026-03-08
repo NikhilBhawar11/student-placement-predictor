@@ -36,3 +36,15 @@ The project uses a Machine Learning algorithm to predict student placement.
 4. Model training
 5. Model evaluation
 6. Model deployment using Flask
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Flask
+- HTML
+- CSS
+- Git
